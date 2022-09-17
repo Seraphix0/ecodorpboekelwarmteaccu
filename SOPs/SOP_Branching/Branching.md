@@ -8,9 +8,6 @@
 
 ---
 
-test
-
- 
 ## Create a local side branch
 1. In VS code click bottom left corner on the branch icon.\
    <img src="./Images/BranchIcon.jpg" alt="Branch Icon">
