@@ -10,7 +10,7 @@
 
 ## Create a local side branch
 1. In VS code click bottom left corner on the branch icon.\
-   <img src="./Images/BranchIcon.jpg" alt="Branch Icon">
+   ![BranchIcon](./Images/BranchIcon.jpg)
 2. Select "+ Create new branch from"\
    ![NewBranch](./Images/NewBranch.png)
 3. Type a meaningful new branch name and press enter\
