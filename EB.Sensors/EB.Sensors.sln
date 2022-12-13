@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EB.Sensors.SignalR", "EB.Sensors.SignalR\EB.Sensors.SignalR.csproj", "{4FE2CB23-4EF4-4065-9EC2-B05AEE25B337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EB.Sensors.SignalRTests", "EB.Sensors.SignalRTests\EB.Sensors.SignalRTests.csproj", "{D400EBF3-5147-449E-A2AA-CE2D706F6324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EB.Sensors.Infrastructure", "EB.Sensors.Infrastructure\EB.Sensors.Infrastructure.csproj", "{EABA7997-13A7-4368-80BE-E3BB3ACCA6DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EB.Sensors.Statistics", "EB.Sensors.Statistics\EB.Sensors.Statistics.csproj", "{A4811E50-D455-4D3C-8BD0-295FF231EDC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE2CB23-4EF4-4065-9EC2-B05AEE25B337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE2CB23-4EF4-4065-9EC2-B05AEE25B337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE2CB23-4EF4-4065-9EC2-B05AEE25B337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE2CB23-4EF4-4065-9EC2-B05AEE25B337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D400EBF3-5147-449E-A2AA-CE2D706F6324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D400EBF3-5147-449E-A2AA-CE2D706F6324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D400EBF3-5147-449E-A2AA-CE2D706F6324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D400EBF3-5147-449E-A2AA-CE2D706F6324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EABA7997-13A7-4368-80BE-E3BB3ACCA6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABA7997-13A7-4368-80BE-E3BB3ACCA6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABA7997-13A7-4368-80BE-E3BB3ACCA6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABA7997-13A7-4368-80BE-E3BB3ACCA6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4811E50-D455-4D3C-8BD0-295FF231EDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4811E50-D455-4D3C-8BD0-295FF231EDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4811E50-D455-4D3C-8BD0-295FF231EDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4811E50-D455-4D3C-8BD0-295FF231EDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
